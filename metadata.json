@@ -1,0 +1,5 @@
+{
+  "name": "VO2trofia Fitness Planner",
+  "description": "An interactive weekly workout planner and timer application. It displays daily routines, including strength training, HIIT, and active rest days. Features an interactive player for warm-ups and exercises with timed intervals and cues.",
+  "requestFramePermissions": []
+}
